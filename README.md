@@ -2,7 +2,7 @@
 
 ## User Story
 
-AS a bootcamp student,
+As a bootcamp student,
 I want my codebase to adhere to accessibility guidelines
 in order to make our own website more search engine friendly.
 
