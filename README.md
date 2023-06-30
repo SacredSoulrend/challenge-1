@@ -23,6 +23,6 @@ WHEN I find a concise, descriptive title <br>
 
 ![image](https://github.com/SacredSoulrend/challenge-1/assets/131583357/ab482514-2094-41cc-aed1-a1d02d0f661b)
 
-## link to the website
+## Link to the Website
 
 https://sacredsoulrend.github.io/horiseon-refactoring-project/
