@@ -1,10 +1,10 @@
-# challenge-1
+# horiseon-refactoring-project
 
 ## User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+AS a bootcamp student,
+I want my codebase to adhere to accessibility guidelines
+in order to make our own website more search engine friendly.
 
 ## Acceptance Criteria
 
